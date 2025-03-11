@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import com.Service;
 
-public class Servicetest {
+public class ServiceTest {
 	
 	@Test
 	public void TestEmailOne() {
